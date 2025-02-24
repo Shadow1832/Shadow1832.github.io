@@ -144,12 +144,6 @@
                         Tu navegador no soporta audio.
                     </audio>
                 </div>
-                <div class="card">
-                    <h3>....</h3>
-                    <audio controls>
-                        <source src="track12.mp3" type="">
-                        Tu navegador no soporta audio.
-                    </audio>
                 </div>
             </div>
         </section>
