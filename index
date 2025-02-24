@@ -70,84 +70,84 @@
                 <div class="card">
                     <h3>Aqua</h3>
                     <audio controls>
-                        <source src="music/AQUA.mp3" type="audio/mpeg">
+                        <source src="AQUA.mp3" type="audio/mpeg">
                         Tu navegador no soporta audio.
                     </audio>
                 </div>
                 <div class="card">
                     <h3>Atlantis</h3>
                     <audio controls>
-                        <source src="music/ATLANTIS.mp3" type="audio/mpeg">
+                        <source src="ATLANTIS.mp3" type="audio/mpeg">
                         Tu navegador no soporta audio.
                     </audio>
                 </div>
                 <div class="card">
                     <h3>Beach</h3>
                     <audio controls>
-                        <source src="music/Beach.m4a" type="audio/mpeg">
+                        <source src="Beach.m4a" type="audio/mpeg">
                         Tu navegador no soporta audio.
                     </audio>
                 </div>
                 <div class="card">
                     <h3>Cataclismo</h3>
                     <audio controls>
-                        <source src="music/Cataclismo.mp3" type="audio/mpeg">
+                        <source src="Cataclismo.mp3" type="audio/mpeg">
                         Tu navegador no soporta audio.
                     </audio>
                 </div>
                 <div class="card">
                     <h3>Dancefloor</h3>
                     <audio controls>
-                        <source src="music/Dancefloor.mp3" type="audio/mpeg">
+                        <source src="Dancefloor.mp3" type="audio/mpeg">
                         Tu navegador no soporta audio.
                     </audio>
                 </div>
                 <div class="card">
                     <h3>Extraña</h3>
                     <audio controls>
-                        <source src="music/EXTRAÑA.mp3" type="audio/mpeg">
+                        <source src="EXTRAÑA.mp3" type="audio/mpeg">
                         Tu navegador no soporta audio.
                     </audio>
                 </div>
                 <div class="card">
                     <h3>Space X</h3>
                     <audio controls>
-                        <source src="music/space-X.mp3" type="audio/mpeg">
+                        <source src="space-X.mp3" type="audio/mpeg">
                         Tu navegador no soporta audio.
                     </audio>
                 </div>
                 <div class="card">
                     <h3>Freedom</h3>
                     <audio controls>
-                        <source src="music/Freedom.mp3" type="audio/mpeg">
+                        <source src="Freedom.mp3" type="audio/mpeg">
                         Tu navegador no soporta audio.
                     </audio>
                 </div>
                 <div class="card">
                     <h3>Rescatame</h3>
                     <audio controls>
-                        <source src="music/RESCATAME.mp3" type="audio/mpeg">
+                        <source src="RESCATAME.mp3" type="audio/mpeg">
                         Tu navegador no soporta audio.
                     </audio>
                 </div>
                 <div class="card">
                     <h3>Extraño</h3>
                     <audio controls>
-                        <source src="music/EXTRAÑO.mp3" type="audio/mpeg">
+                        <source src="EXTRAÑO.mp3" type="audio/mpeg">
                         Tu navegador no soporta audio.
                     </audio>
                 </div>
                 <div class="card">
                     <h3>Trance</h3>
                     <audio controls>
-                        <source src="music/TRANCE.mp3" type="audio/mpeg">
+                        <source src="TRANCE.mp3" type="audio/mpeg">
                         Tu navegador no soporta audio.
                     </audio>
                 </div>
                 <div class="card">
                     <h3>....</h3>
                     <audio controls>
-                        <source src="music/track12.mp3" type="audio/mpeg">
+                        <source src="track12.mp3" type="">
                         Tu navegador no soporta audio.
                     </audio>
                 </div>
